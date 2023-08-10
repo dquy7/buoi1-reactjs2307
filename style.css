@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    border: 1px solid black;
+    width: 300px;
+    display: block;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: auto;
+    margin-top: 50px;
+}
+
